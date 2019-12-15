@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/conditionalrendering2/static/css/main.0b80c280.chunk.css",
+    "main.js": "/conditionalrendering2/static/js/main.3850aa11.chunk.js",
+    "main.js.map": "/conditionalrendering2/static/js/main.3850aa11.chunk.js.map",
+    "runtime-main.js": "/conditionalrendering2/static/js/runtime-main.ab0b682d.js",
+    "runtime-main.js.map": "/conditionalrendering2/static/js/runtime-main.ab0b682d.js.map",
+    "static/js/2.cfeb4f94.chunk.js": "/conditionalrendering2/static/js/2.cfeb4f94.chunk.js",
+    "static/js/2.cfeb4f94.chunk.js.map": "/conditionalrendering2/static/js/2.cfeb4f94.chunk.js.map",
+    "index.html": "/conditionalrendering2/index.html",
+    "precache-manifest.e586bed4135f14328a62c865caa5729e.js": "/conditionalrendering2/precache-manifest.e586bed4135f14328a62c865caa5729e.js",
+    "service-worker.js": "/conditionalrendering2/service-worker.js",
+    "static/css/main.0b80c280.chunk.css.map": "/conditionalrendering2/static/css/main.0b80c280.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab0b682d.js",
+    "static/js/2.cfeb4f94.chunk.js",
+    "static/css/main.0b80c280.chunk.css",
+    "static/js/main.3850aa11.chunk.js"
+  ]
+}
